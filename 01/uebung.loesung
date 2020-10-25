@@ -1,0 +1,22 @@
+python
+	"batteries included"
+	Anfängerfreundliche Programmiersprache
+	programmierereffizent
+	interpretierte Sprache
+
+PHP
+	hauptsächlich im Web eingesetzt
+	interpretierte Sprache 
+	hostseitige Ausführung
+
+JavaScript
+	hauptsächlich im Web eingesetzt
+	interpretierte Sprache
+	clientseitige Ausführung
+
+C
+	Hardware-nahe Sprache -> asm("xor %rdi, %rsi");
+	laufzeiteffiziente Sprache -> die Effizienteste? Nein (RUST oder C++ können 
+	 genau so schnell sein)
+	compilierte Sprache
+	Standardisierte Sprache 
